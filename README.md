@@ -1,0 +1,2 @@
+# Movie_Data_Analysis
+## **Movies On Streaming Platforms** The OTT platform is growing rapidly worldwide, In this datasheet, the behavior of different user are described. The datasheet taken from "KAGGLE".  The Analysis of data performed using different python libraries such as Pandas and Matplotlib.  In this data, we will try to find which genre is most widely watched, which language is most popular, which country tops in the OOT platform use, etc.
